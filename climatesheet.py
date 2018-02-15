@@ -28,8 +28,8 @@ class googSheets:
     worksheet = ''
 
     # These two variables point to where the date information
-    # begins in your spreadsheet, on mine it is A1 or (1, 1)
-    start_row = 1
+    # begins in your spreadsheet, on mine it is A2 or (2, 1)
+    start_row = 2
     start_col = 1
 
     # This variable is the column where you want to start inputing
