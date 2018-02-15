@@ -18,8 +18,11 @@ ClimateSheet requires python 3.5 or later
 
 
 The pip requirements.txt script will install the following packages on your system
-* Requests 2.16.0
-* Mutagen 1.36.2
+* cssselect==1.0.3
+* gspread==0.6.2
+* lxml==4.1.1
+* oauth2client==4.1.2
+* requests==2.18.4
 
 License
 =======
