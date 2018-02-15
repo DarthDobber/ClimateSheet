@@ -13,9 +13,9 @@ Installation
 
 1. Download the repository and extract it to a folder you have rights to
 2. Open a command prompt and browse to the "repository folder"\venv\Scripts
-3. Run 'activate' from the command prompt, this will activate the virtual environment
+3. Run `activate` from the command prompt, this will activate the virtual environment
 4. Move up two directories to the root of the repository folder
-5. Run the command 'python climatesheet.py' You should be able to see spreadsheet being updated in real time.
+5. Run the command `python climatesheet.py` You should be able to see spreadsheet being updated in real time.
 
 
 Requirements
